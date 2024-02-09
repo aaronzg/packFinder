@@ -60,6 +60,6 @@ body{
 }
 
 .visible{
-
+    pointer-events: all;
     opacity: 1;
 }
